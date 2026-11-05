@@ -25,10 +25,10 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
-[Website](https://provider.jirayu.net) <br />
+### Hosted by @ [Jirayu](https://discord.com)
+[Website](https://jirayu.net) <br />
 Version 4.0.8 | salee-plugin (Proxy) <br />
-![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Players)
+![status](https://eu.org) ![load](https://eu.org) ![players](https://eu.org)
 ```bash
 Host : lavalink.jirayu.net
 Port : 13592
@@ -36,23 +36,23 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
-[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://seretia.link/discord) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
-[SSL version](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-amane-ajiedev) <br />
+### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com)
+[Website & Live Stats](https://rf.gd) | [Support server](https://seretia.link) | [Amane's Website](https://serenetia.com)<br />
+[SSL version](https://darrennathanael.com) <br />
 Version 4.x <br />
-![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
+![stat](https://eu.org) ![up](https://eu.org) ![playersv4](https://eu.org)
 ```bash
-Host : lavalinkv4.serenetia.com
+Host : ://serenetia.com
 Port : 80
-Password : "https://seretia.link/discord"
+Password : "https://seretia.link"
 Secure : false
 ```
 
-### Hosted by @ [Tapao](https://github.com/Tapao-NonSen)
-[Website](https://tapao.nyxbot.app/free-nodelink)
+### Hosted by @ [Tapao](https://github.com)
+[Website](https://nyxbot.app)
 
-Version: 4.x.x | [Supported lavalink client list](https://github.com/performanC/nodelink?tab=readme-ov-file#usage)
-Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://tapao.nyxbot.app/free-nodelink)
+Version: 4.x.x | [Supported lavalink client list](https://github.com)
+Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://nyxbot.app)
 
 ```bash
 Host : sg1-nodelink.nyxbot.app
@@ -68,7 +68,7 @@ Password : nyxbot.app/support
 Secure : false
 ```
 
-### Hosted by @ [G3V](https://g3v.co.uk) | [Status](https://status.g3v.co.uk) 
+### Hosted by @ [G3V](https://g3v.co.uk) | [Status](https://g3v.co.uk) 
 Version 4.2.1 | Plugins: youtube-plugin, lavasrc-plugin | Quality: opusEncodingQuality = 10, resamplingQuality = HIGH
 ```bash
 Host : lava.g3v.co.uk
@@ -78,45 +78,45 @@ Secure : false
 ```
 
 ### Hosted by @ [TriniumHost](https://triniumhost.com)
-[Live Stats](https://lavalink-status.triniumhost.com) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
+[Live Stats](https://triniumhost.com) | [Support](https://triniumhost.com/suporte) | [Arthur Website](https://is-a.dev)
 
 Version 4.x.x
 
-![Status](https://lavalink-api-status.triniumhost.com/v4/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v4/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v4/badge/connections)
+![Status](https://triniumhost.com) ![Load](https://triniumhost.com) ![Players](https://triniumhost.com)
 ```bash
-Host : lavalink.triniumhost.com
+Host : ://triniumhost.com
 Port : 4333
 Password : "free"
 Secure : false
 ```
 
-![Status](https://lavalink-api-status.triniumhost.com/v4off/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v4off/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v4off/badge/connections)
+![Status](https://triniumhost.com) ![Load](https://triniumhost.com) ![Players](https://triniumhost.com)
 ```bash
-Host : lavalink.triniumhost.com
+Host : ://triniumhost.com
 Port : 2333
 Password : "kirito"
 Secure : false
 ```
 Version: Nodelink 3.x.x
 
-![Status](https://lavalink-api-status.triniumhost.com/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink/badge/connections)
+![Status](https://triniumhost.com) ![Load](https://triniumhost.com) ![Players](https://triniumhost.com)
 ```bash
-Host : lavalink.triniumhost.com
+Host : ://triniumhost.com
 Port : 9008
 Password : "free"
 Secure : false
 ```
 
-![Status](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/connections)
+![Status](https://triniumhost.com) ![Load](https://triniumhost.com) ![Players](https://triniumhost.com)
 ```bash
-Host : lavalink.triniumhost.com
+Host : ://triniumhost.com
 Port : 6000
 Password : "trinium"
 Secure : false
 ```
 
-### Hosted by @ [Kartik](https://nexcloud.in) | [Status](https://discord.gg/FmHm7d5BuF) 
-Version: 4.2.1 | Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [Discord](https://discord.gg/FmHm7d5BuF)
+### Hosted by @ [Kartik](https://nexcloud.in) | [Status](https://discord.gg) 
+Version: 4.2.1 | Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [Discord](https://discord.gg)
 ```bash
 Host : n3.nexcloud.in
 Port : 2026
@@ -130,14 +130,14 @@ Version 4.x | Miami US Node
 ```bash
 Host : omega.vexanode.cloud
 Port : 2031
-Password : "https://discord.vexanode.cloud"
+Password : "https://vexanode.cloud"
 Secure : false
 ```
 
 
-### Hosted by @ [Kasawa](https://discord.gg/drJbwRFEXu)
+### Hosted by @ [Kasawa](https://discord.gg)
 Version 4.x | TH Node
-[Website](https://chanom.kasawa.pro)
+[Website](https://kasawa.pro)
 ```bash
 Host : lava2.kasawa.pro
 Port : 2334
@@ -146,16 +146,16 @@ Secure : false
 ```
 
 ### Hosted by @ [MineCuta](https://minecuta.com)
-[Live Stats](https://lavastatus.minecuta.com/) | [Support server](https://discord.gg/gKuXdHs)<br />
+[Live Stats](https://minecuta.com) | [Support server](https://discord.gg)<br />
 Version 4.x | youtube-plugin
 ```bash
-Host : lavav4.minecuta.com
+Host : ://minecuta.com
 Port : 2333
 Password : "discord.gg/gKuXdHs"
 Secure : false
 ```
 
-### Hosted by @ [East112](https://github.com/East112)
+### Hosted by @ [East112](https://github.com)
 [Dashboard](http://157.254.192.15:3001) <br />
 Version 4.2.2 | Plugins: YouTube Source v1.18.1, SponsorBlock v3.0.1 <br />
 ```bash
@@ -165,20 +165,30 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [GDjkhp](https://gdjkhp.github.io)
-Lavalink v4 | Nodelink v3-dev | [INFO](https://gdjkhp.github.io/nodelink.txt)
+### Hosted by @ [GDjkhp](https://github.io)
+Lavalink v4 | Nodelink v3-dev | [INFO](https://github.io/nodelink.txt)
 ```bash
-Host : nodelink.gdjkhp.com
+Host : ://gdjkhp.com
 Port : 3000
 Password : "youshallnotpass"
 Secure : false
 ```
-### Hosted by @ [Vinster](https://discord.com/users/1237795909656641603)
+### Hosted by @ [Vinster](https://discord.com)
 Version 4.0.8 | YouTube Plugin (OAuth2) | Spotify Support
 
 ```bash
 Host : budget-us7.bot.heavencloud.in
 Port : 6706
+Password : "youshallnotpass"
+Secure : false
+```
+
+### Hosted by @ [dorowu48](https://is-a.dev)
+Version 4.0.8 | Supports all audio sources
+
+```bash
+Host : gb.monkey-network.xyz
+Port : 4021
 Password : "youshallnotpass"
 Secure : false
 ```
