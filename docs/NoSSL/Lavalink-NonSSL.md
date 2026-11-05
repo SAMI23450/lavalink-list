@@ -183,7 +183,7 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [dorowu48](https://is-a.dev)
+### Hosted by @ [dorowu48](https://dorowu48.is-a.dev)
 Version 4.0.8 | Supports all audio sources
 
 ```bash
